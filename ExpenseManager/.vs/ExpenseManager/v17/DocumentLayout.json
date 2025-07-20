@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NamrahAkram\\source\\repos\\Authentication\\ExpenseManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC0AA7D-07A3-40DE-86EF-3B092178BB74}|ExpenseManager\\ExpenseManager.csproj|c:\\users\\namrahakram\\source\\repos\\authentication\\expensemanager\\expensemanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC0AA7D-07A3-40DE-86EF-3B092178BB74}|ExpenseManager\\ExpenseManager.csproj|solutionrelative:expensemanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC0AA7D-07A3-40DE-86EF-3B092178BB74}|ExpenseManager\\ExpenseManager.csproj|c:\\users\\namrahakram\\source\\repos\\authentication\\expensemanager\\expensemanager\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC0AA7D-07A3-40DE-86EF-3B092178BB74}|ExpenseManager\\ExpenseManager.csproj|solutionrelative:expensemanager\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC0AA7D-07A3-40DE-86EF-3B092178BB74}|ExpenseManager\\ExpenseManager.csproj|c:\\users\\namrahakram\\source\\repos\\authentication\\expensemanager\\expensemanager\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC0AA7D-07A3-40DE-86EF-3B092178BB74}|ExpenseManager\\ExpenseManager.csproj|solutionrelative:expensemanager\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\NamrahAkram\\source\\repos\\Authentication\\ExpenseManager\\ExpenseManager\\Program.cs",
+              "RelativeDocumentMoniker": "ExpenseManager\\Program.cs",
+              "ToolTip": "C:\\Users\\NamrahAkram\\source\\repos\\Authentication\\ExpenseManager\\ExpenseManager\\Program.cs",
+              "RelativeToolTip": "ExpenseManager\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T11:34:12.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\NamrahAkram\\source\\repos\\Authentication\\ExpenseManager\\ExpenseManager\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ExpenseManager\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\NamrahAkram\\source\\repos\\Authentication\\ExpenseManager\\ExpenseManager\\Models\\User.cs",
+              "RelativeToolTip": "ExpenseManager\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T11:32:46.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\NamrahAkram\\source\\repos\\Authentication\\ExpenseManager\\ExpenseManager\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ExpenseManager\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\NamrahAkram\\source\\repos\\Authentication\\ExpenseManager\\ExpenseManager\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ExpenseManager\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T11:32:05.351Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
